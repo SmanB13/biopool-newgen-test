@@ -1,0 +1,7 @@
+{
+  "name": "BioPool NewGen Test",
+  "content_in_root": false,
+  "domains": ["biopool_newgen_test"],
+  "country": "FR",
+  "homeassistant": "2022.0.0"
+}
