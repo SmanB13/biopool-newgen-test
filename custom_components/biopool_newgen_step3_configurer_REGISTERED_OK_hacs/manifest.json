@@ -1,0 +1,6 @@
+{
+  "version": "0.1.0",
+  "entry_points": {
+    "config_flow": "config_flow:ConfigFlowHandler"
+  }
+}
