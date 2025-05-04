@@ -1,15 +1,10 @@
 {
   "domain": "biopool_newgen_test",
   "name": "BioPool NewGen Test",
-  "version": "0.3.0-config-ui",
+  "version": "1.0.0",
   "documentation": "https://github.com/SmanB13/biopool-newgen-test",
+  "config_flow": true,
   "requirements": [],
   "dependencies": [],
-  "codeowners": [
-    "@SmanB13"
-  ],
-  "config_flow": true,
-  "entry_points": {
-    "config_flow": "config_flow:ConfigFlowHandler"
-  }
+  "codeowners": ["@SmanB13"]
 }
